@@ -1,1 +1,1 @@
-# SSash
+https://github.com/smalkawi/SSash
